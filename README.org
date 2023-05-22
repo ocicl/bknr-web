@@ -1,0 +1,9 @@
+* bknr-web
+
+BKNR Web Components
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/hanshuebner/bknr-web.git |
+| commit  | 5c30b61                                         |
+| systems | bknr-web                                        |
+|---------+-------------------------------------------------|
