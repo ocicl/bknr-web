@@ -1,9 +1,10 @@
 * bknr-web
 
-BKNR Web Components
+Web framework based on bknr datastore.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/hanshuebner/bknr-web.git |
 | commit  | 5c30b61                                         |
-| systems | html-match bknr.web leech bknr.modules          |
+| systems | bknr-web                                        |
 |---------+-------------------------------------------------|
+
